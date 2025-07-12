@@ -234,19 +234,19 @@ nav ul li {
 }
 
 /*user feedback section*/
-.testimonials {
+.review {
   background-color: #f5f7ff;
   padding: 60px 20px;
   text-align: center;
 }
 
-.testimonial-title {
+.review-title {
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 40px;
 }
 
-.testimonial-cards {
+.review-cards {
   display: flex;
   gap: 20px;
   justify-content: center;
